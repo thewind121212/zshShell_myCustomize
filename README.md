@@ -28,7 +28,7 @@ after run this command make sure it log  .....is now installed!
 
 ### For the last step install my customize
 *clone my repo 
-#### `git clone https://github.com/thewind121212/zshShell_myCustomize.git'
+#### `git clone https://github.com/thewind121212/zshShell_myCustomize.git`
 * Copy all thing in my file to to .zshrc in "~/.zshrc"
 
 
