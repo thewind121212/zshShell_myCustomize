@@ -17,7 +17,7 @@ after run this command make sure it log  .....is now installed!
 
 *If it don’t show you the message “Shell changed.” just before the Oh My ZSH logo, maybe the script wasn’t able to change your default shell. In that case, you can manually change it using 
 
-###`sudo usermod --shell $(which zsh) <your_username>`
+### `sudo usermod --shell $(which zsh) <your_username>`
 
 
 #### Install nerd font use like from this repo https://github.com/ryanoasis/nerd-fonts (recomend hack font best performace)
